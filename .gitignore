@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pt
+data/*.jsonl
+comparison_results.json
+baseline_results.json
+.DS_Store
